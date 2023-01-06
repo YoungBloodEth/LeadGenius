@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LeadGenius - Social Media Marketing Agency</title>
+</head>
+<body>
+  <header>
+    <h1>LeadGenius</h1>
+    <h2>Social Media Marketing Agency</h2>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#vision">Vision</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section id="introduction">
+      <h2>Introduction</h2>
+      <p>Welcome to LeadGenius, a social media marketing agency specializing in the curation of leads and increased customers for our clients. Our team of experts will work with you to develop a customized social media strategy that is tailored to your business needs.</p>
+    </section>
+    <section id="vision">
+      <h2>Vision</h2>
+      <p>Our vision is to help businesses of all sizes reach their full potential through the power of social media marketing. We believe in the power of collaboration and strive to build long-term partnerships with our clients.</p>
+    </section>
+    <section id="services">
+      <h2>Services</h2>
+      <ul>
+        <li>Social media account set-up and management</li>
+        <li>Content creation</li>
+        <li>Social media advertising</li>
+        <li>Social media analytics</li>
+      </ul>
+    </section>
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Ready to take your business to the next level with social media marketing? Contact us today to learn more about how LeadGenius can help you reach your goals.</p>
+      <p>Email: info@leadgenius.com</p>
+      <p>Phone: (123) 456-7890</p>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright LeadGenius 2021</p>
+  </footer>
+</body>
+</html>
